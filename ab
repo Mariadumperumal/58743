@@ -1,0 +1,7 @@
+#include<stdio.h>
+void main()
+{
+float a,b;
+scanf("%d%d",&a,&b);
+printf("%f%f",a,b);
+}
