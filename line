@@ -1,0 +1,8 @@
+#include<stdio.h>
+void main()
+{
+char n;
+printf("lineA",--------);
+printf("lineB",---------);
+printf("linec",----------);
+}
